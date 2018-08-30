@@ -1,1 +1,1 @@
-include ':app', ':jni-service'
+include ':app'//, ':jni-service'
